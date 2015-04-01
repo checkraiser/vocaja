@@ -6,7 +6,10 @@ tags:
 - Dictionary
 - Etymology
 categories:
-- Android, Education, Dictionary
+- Android
+- Education
+categories:
+- Dictionary
 ---
 ### Descriptions:
 ![][logo]
