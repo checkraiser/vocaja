@@ -21,7 +21,7 @@ The content is updated daily, so you could really enjoy the app: Learning is Fun
 ### Downloads:
 [Download on Google Play](https://play.google.com/store/apps/details?id=vocaja.com.english.subtitle)
 
-[logo]: https://lh5.ggpht.com/YBoc3ygBO2ctqh1TKZ08t0caU5TiJ_qy0tTsb8WpPg9uem-0_fiwsGReka9o4-isT3c=w300
+[logo]: https://lh5.ggpht.com/7k-IwbCkY-KV8NY0UXZlp1MRMX6sG2CjZ-jfwMMlzuxqDWNc9tEB4-1zW6WgZNhS96g=w300
 [img1]: https://lh3.ggpht.com/nnyVY4Qj7KxbnOlYmvmpIOl1mVZ_KdjnuoRhfTSh0IDMrEUnNo0vjiVT94Y5ueB_bA=h900
 [img2]: https://lh5.ggpht.com/5853AsfmjbCZA_JugLbb7GXLcHDOSoD3r2Tymj1LlInd8dmDb-lXOSna6WECzbvnXg=h900
 [img3]: https://lh4.ggpht.com/7QEyYMVz8fPnq964Sc7LV1bbV_y0C-CgUD617wGTj2euI-T99lXx9f2ynUUxwnqQNtI=h900
