@@ -19,7 +19,7 @@ The content is updated daily, so you could really enjoy the app: Learning is Fun
 ![Item detail][img3]
 
 ### Downloads:
-[![Download app on Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=vocaja.com.audiobook)
+[Download on Google Play](https://play.google.com/store/apps/details?id=vocaja.com.english.subtitle)
 
 [logo]: https://lh5.ggpht.com/YBoc3ygBO2ctqh1TKZ08t0caU5TiJ_qy0tTsb8WpPg9uem-0_fiwsGReka9o4-isT3c=w300
 [img1]: https://lh3.ggpht.com/nnyVY4Qj7KxbnOlYmvmpIOl1mVZ_KdjnuoRhfTSh0IDMrEUnNo0vjiVT94Y5ueB_bA=h900
