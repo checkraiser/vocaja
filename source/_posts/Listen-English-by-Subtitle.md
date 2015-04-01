@@ -19,7 +19,7 @@ The content is updated daily, so you could really enjoy the app: Learning is Fun
 ![Item detail][img3]
 
 ### Downloads:
-[![Download on Google Play](http://descargarplaystoregratis.org/wp-content/uploads/2014/07/play-store-gratis1.png)](https://play.google.com/store/apps/details?id=vocaja.com.english.subtitle)
+[Download on Google Play](https://play.google.com/store/apps/details?id=vocaja.com.english.subtitle)
 
 [logo]: https://lh5.ggpht.com/7k-IwbCkY-KV8NY0UXZlp1MRMX6sG2CjZ-jfwMMlzuxqDWNc9tEB4-1zW6WgZNhS96g=w300
 [img1]: https://lh4.ggpht.com/-7DJXUhqC7y8o5a1xmh1TLo9o7B4iHQI65XNzUZK_ALLB7KSNoSzq-lFMcU6aVeFaQ=h900
